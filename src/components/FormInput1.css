@@ -1,0 +1,9 @@
+::placeholder {
+    color: #bbb5b5;
+    opacity: 1; /* Firefox */
+  }
+
+  input:focus
+{
+    outline: none;
+}
